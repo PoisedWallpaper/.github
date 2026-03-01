@@ -8,7 +8,7 @@ A native macOS app for discovering, managing, and displaying animated wallpapers
 
 ## Download the app directly
 
-[Download Now Latest Version](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta)
+[Download Latest Version](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta)
 
 Double-click, install.
 
@@ -21,6 +21,10 @@ Double-click, install.
 brew install --cask poised-wallpaper
 
 ```
+
+## Looking for older releases?
+
+[See all releases](https://github.com/PoisedWallpaper/app/releases/)
 
 
 ---
