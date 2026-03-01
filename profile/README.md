@@ -2,7 +2,8 @@
 
 Fast, lite, amazing. Get it today.
 
-<img width="712" height="480" alt="PoisedWallpaper MacOS Local Library" src="https://github.com/user-attachments/assets/2b858c78-9a8b-43e7-a5b3-d5fd7d692878" />
+<img width="712" height="480" alt="PoisedWallpaper MacOS Local Library" src="https://github.com/user-attachments/assets/38c71387-0f64-4b55-a7a8-5d89a5ec7918" />
+
 
 ### Digitally Signed, installs in a jiffy. Use any MP4. Or use high quality ones.
 
