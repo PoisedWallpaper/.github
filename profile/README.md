@@ -79,7 +79,16 @@ Quick-select recent favorites from the menu bar, or browse the full library wind
 
 ## Changelog
 
-  ### v0.4.3-beta - March 2026                                                                                                                                  
+ ### [v0.4.5-beta - March 2026](https://github.com/PoisedWallpaper/app/tree/v0.4.5-beta)
+                                                                                                                                                                               
+  - Full Rebrand (NeuralDreamsWallpaper to PoisedWallpaper)
+  - New Bundle ID (com.poised.wallpaper)
+  - New PW Favicon Assets (Kode Mono)
+  - Single-Instance Guard (prevents duplicate app launches)
+  - "for macOS" Subtitle in Splash & About Windows
+  - Styled DMG Installer (drag-to-Applications experience)
+
+  ### [v0.4.3-beta - March 2026](https://github.com/PoisedWallpaper/app/tree/v0.4.3-beta)                                                                                                                                  
   - Static Image Wallpapers                                                                                                                                    
   - Localization (English, Spanish, German, French)                                                                                                            
   - About Window                                                                                                                                               
