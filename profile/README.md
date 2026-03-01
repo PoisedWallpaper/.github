@@ -14,6 +14,7 @@ Double-click, install.
 
 **Boom! Done.**
 
+<!--
 
 ## or, one line install with Homebrew
 ```
@@ -21,6 +22,7 @@ Double-click, install.
 brew install --cask poised-wallpaper
 
 ```
+-->
 
 ## Looking for older releases?
 
