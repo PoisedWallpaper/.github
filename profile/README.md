@@ -6,20 +6,22 @@ A native macOS app for discovering, managing, and displaying animated wallpapers
 
 ### Digitally Signed & Notarized By Apple Developer Program. Supports any MP4
 
-## One line install with homebrew
-```
-
-brew install --cask poised-wallpaper
-
-```
-
-## Or, go download the app directly
+## Download the app directly
 
 [Download Now Latest Version](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta)
 
 Double-click, install.
 
 **Boom! Done.**
+
+
+## or, one line install with Homebrew
+```
+
+brew install --cask poised-wallpaper
+
+```
+
 
 ---
 
