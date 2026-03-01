@@ -17,7 +17,11 @@ brew install --cask poisedwallpaper
 
 [Download Now Latest Version](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta)
 
+Double Click, install.
 
+**Boom! Done.**
+
+---
 
 ## Maintain your own library
 
