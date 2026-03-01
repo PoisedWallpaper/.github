@@ -73,10 +73,10 @@ Quick-select recent favorites from the menu bar, or browse the full library wind
 
   **Signed & Notarized**  
   Code-signed, hardened runtime, notarized DMG - installs cleanly with no Gatekeeper warnings
-
+<!--
   **Homebrew**  
   `brew install --cask poised-wallpaper`
-
+-->
 ---
 
 ## Changelog
