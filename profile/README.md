@@ -81,7 +81,7 @@ Quick-select recent favorites from the menu bar, or browse the full library wind
 
  ### [v0.4.5-beta - March 2026](https://github.com/PoisedWallpaper/app/tree/v0.4.5-beta)
                                                                                                                                                                                
-  - Full Rebrand (NeuralDreamsWallpaper to PoisedWallpaper)
+  - Full Rebrand (NDWallpaper to PoisedWallpaper)
   - New Bundle ID (com.poised.wallpaper)
   - New PW Favicon Assets (Kode Mono)
   - Single-Instance Guard (prevents duplicate app launches)
