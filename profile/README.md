@@ -2,7 +2,7 @@
 
 Fast, lite, amazing. Get it today.
 
-<img width="712" height="480" alt="PoisedWallpaper MacOS Local Library" src="https://github.com/user-attachments/assets/38c71387-0f64-4b55-a7a8-5d89a5ec7918" />
+<img width="712" height="480" lt="PoisedWallpaper MacOS Local Library" src="https://github.com/user-attachments/assets/3632ad41-65a5-42fe-a44b-1420cec480c0" />
 
 
 ### Digitally Signed, installs in a jiffy. Use any MP4. Or use high quality ones.
@@ -29,7 +29,8 @@ Double Click, install.
 Maintain your local library and quickly switch between your favorites.
 There's a quick select of the latest backgrounds or you can bring up the full Library window and take your time to select.
 
-<img width="812" height="640" alt="PoisedWallpaper MacOS Local Library" src="https://github.com/user-attachments/assets/1b9c21a2-8552-4fad-b9f6-b688a02a33dc" />
+<img width="812" height="640" alt="PoisedWallpaper MacOS Local Library" src="https://github.com/user-attachments/assets/840377aa-2f47-4957-9acb-e4168db0f21a" />
+
 
 ## Features
 
