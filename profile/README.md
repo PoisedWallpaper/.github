@@ -1,6 +1,6 @@
 ## PoisedWallpaper for macOS
 
-A native macOS app for discovering, managing, and displaying animated wallpapers.
+A native macOS app for discovering, managing, and displaying animated .MP4 wallpapers.
 
 <img width="712" height="480" alt="PoisedWallpaper macOS Local Library" src="https://github.com/user-attachments/assets/3632ad41-65a5-42fe-a44b-1420cec480c0" />
 
