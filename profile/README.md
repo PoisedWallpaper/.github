@@ -2,7 +2,7 @@
 
 A native macOS app for discovering, managing, and displaying audio/video .MP4 wallpapers.
 
-<img width="712" height="480" alt="PoisedWallpaper macOS Local Library" src="https://github.com/user-attachments/assets/3632ad41-65a5-42fe-a44b-1420cec480c0" />
+<img width="712" height="480" alt="PoisedWallpaper macOS Local Library" src="https://github.com/user-attachments/assets/07276ad1-7c56-4733-93cd-2d7d6ffe6b01" />
 
 ### Digitally Signed & Notarized By Apple Developer Program. Supports any MP4.
 
