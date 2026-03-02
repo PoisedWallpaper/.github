@@ -14,15 +14,12 @@ Double-click, install.
 
 **Boom! Done.**
 
-<!--
-
 ## or, one line install with Homebrew
 ```
 
-brew install --cask poised-wallpaper
+ brew install --cask PoisedWallpaper/poisedwallpaper/poised-wallpaper
 
 ```
--->
 
 ## Looking for older releases?
 
@@ -73,10 +70,10 @@ Quick-select recent favorites from the menu bar, or browse the full library wind
 
   **Signed & Notarized**  
   Code-signed, hardened runtime, notarized DMG - installs cleanly with no Gatekeeper warnings
-<!--
+
   **Homebrew**  
-  `brew install --cask poised-wallpaper`
--->
+  `brew install --cask PoisedWallpaper/poisedwallpaper/poised-wallpaper`
+
 ---
 
 ## Changelog
