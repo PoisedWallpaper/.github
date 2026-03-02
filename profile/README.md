@@ -8,7 +8,7 @@ A native macOS app for discovering, managing, and displaying audio/video .MP4 wa
 
 ## Download the app directly
 
-[Download Latest Version](https://github.com/PoisedWallpaper/app/releases/tag/v0.4.3-beta)
+[Download Latest Version](https://github.com/PoisedWallpaper/app/releases/tag/v1.0.0)
 
 Double-click, install.
 
