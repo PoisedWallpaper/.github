@@ -78,6 +78,12 @@ Quick-select recent favorites from the menu bar, or browse the full library wind
 
 ## Changelog
 
+  ### [v1.0.0 - March 2026](https://github.com/PoisedWallpaper/app/tree/v1.0.0)                                                                
+
+  - License Key System (auto-generated on first launch, shown in About)                                                                        
+  - Homebrew Tap (brew install --cask PoisedWallpaper/poisedwallpaper/poised-wallpaper)
+  - Stable Release (out of beta)
+
  ### [v0.4.5-beta - March 2026](https://github.com/PoisedWallpaper/app/tree/v0.4.5-beta)
                                                                                                                                                                                
   - Full Rebrand (NDWallpaper to PoisedWallpaper)
